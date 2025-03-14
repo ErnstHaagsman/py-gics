@@ -42,7 +42,7 @@ definition = {
 		"name": "Capital Goods"
 	},
 	"2020": {
-		"name": "Commercial  & Professional Services"
+		"name": "Commercial & Professional Services"
 	},
 	"2030": {
 		"name": "Transportation"
@@ -249,7 +249,7 @@ definition = {
 		"name": "Capital Markets"
 	},
 	"402040": {
-		"name": "Mortgage Real Estate Investment \nTrusts (REITs)"
+		"name": "Mortgage Real Estate Investment Trusts (REITs)"
 	},
 	"403010": {
 		"name": "Insurance"
@@ -382,7 +382,7 @@ definition = {
 		"description": "Manufacturers of construction materials including sand, clay, gypsum, lime, aggregates, cement, concrete and bricks. Other finished or semi-finished building materials are classified  in the Building Products Sub-Industry."
 	},
 	"15103010": {
-		"name": "Metal, Glass & Plastic Containers ",
+		"name": "Metal, Glass & Plastic Containers",
 		"description": "Manufacturers of metal, glass or plastic containers. Includes corks and caps."
 	},
 	"15103020": {
@@ -494,7 +494,7 @@ definition = {
 		"description": "Companies primarily providing research and consulting services to businesses and governments not classified elsewhere.  Includes companies involved in management consulting services, architectural design, business information or scientific research, marketing, and testing & certification services. Excludes companies providing information technology consulting services classified in the IT Consulting & Other Services Sub-Industry."
 	},
 	"20202030": {
-		"name": "Data Processing & Outsourced Services ",
+		"name": "Data Processing & Outsourced Services",
 		"description": "Providers of commercial data processing and/or business process outsourcing services. This Sub-Industry includes companies providing services for customer experience management, back-office automation, call center management, and investor communications."
 	},
 	"20301010": {
@@ -514,7 +514,7 @@ definition = {
 		"description": "Companies providing primarily goods and passenger rail  transportation."
 	},
 	"20304030": {
-		"name": "Cargo Ground Transportation ",
+		"name": "Cargo Ground Transportation",
 		"description": "Companies providing ground transportation services for goods and freight."
 	},
 	"20304040": {
@@ -534,7 +534,7 @@ definition = {
 		"description": "Owners and operators of marine ports and related services."
 	},
 	"25101010": {
-		"name": "Automotive Parts & Equipment ",
+		"name": "Automotive Parts & Equipment",
 		"description": "Manufacturers of parts and accessories for  automobiles and motorcycles. Excludes companies classified in the Tires & Rubber Sub-Industry."
 	},
 	"25101020": {
@@ -622,7 +622,7 @@ definition = {
 		"description": "Retailers specialized mainly in apparel and accessories."
 	},
 	"25504020": {
-		"name": "Computer &Electronics Retail",
+		"name": "Computer & Electronics Retail",
 		"description": "Owners and operators of consumer electronics, computers, video and related products retail stores."
 	},
 	"25504030": {
@@ -654,7 +654,7 @@ definition = {
 		"description": "Owners and operators of primarily food retail stores."
 	},
 	"30101040": {
-		"name": "Consumer Staples Merchandise Retail ",
+		"name": "Consumer Staples Merchandise Retail",
 		"description": "Retailers offering a wide range of consumer staples merchandise such as food, household, and personal care products. This Sub-Industry includes hypermarkets, super centers and other consumer staples retailers such as discount retail spaces and on-line marketplaces selling mostly consumer staples goods."
 	},
 	"30201010": {
@@ -686,7 +686,7 @@ definition = {
 		"description": "Producers of non-durable household products, including detergents, soaps, diapers and other tissue and household paper products not classified in the Paper Products Sub-Industry."
 	},
 	"30302010": {
-		"name": "Personal Care Products ",
+		"name": "Personal Care Products",
 		"description": "Manufacturers of personal and beauty care products, including cosmetics and perfumes."
 	},
 	"35101010": {
@@ -702,7 +702,7 @@ definition = {
 		"description": "Distributors and wholesalers of health care products not classified elsewhere. "
 	},
 	"35102015": {
-		"name": "Health Care  Services",
+		"name": "Health Care Services",
 		"description": "Providers of patient health care services not classified elsewhere. Includes dialysis centers, lab testing services, and pharmacy management services. Also includes companies providing business support services to health care providers, such as clerical support services, collection agency services, staffing services and outsourced sales & marketing services"
 	},
 	"35102020": {
@@ -750,11 +750,11 @@ definition = {
 		"description": "Providers  of  specialized  financial  services  not  classified  elsewhere. Companies  in  this  sub-industry  derive  a  majority  of  revenue  from  one  specialized  line  of  business. \nIncludes,  but  not  limited  to,  commercial  financing  companies,  central  banks,  leasing  institutions, factoring services, and specialty boutiques. Excludes companies classified in the Financial Exchanges & Data sub-industry."
 	},
 	"40201050": {
-		"name": "Commercial & Residential Mortgage Finance ",
+		"name": "Commercial & Residential Mortgage Finance",
 		"description": "Financial companies providing commercial and residential mortgage financing and related mortgage services. This Sub-Industry includes non-deposit funded mortgage lending institutions, building societies, companies providing real estate financing products, loan servicing, mortgage broker services, and mortgage insurance. "
 	},
 	"40201060": {
-		"name": "Transaction & Payment Processing Services ",
+		"name": "Transaction & Payment Processing Services",
 		"description": "Providers of transaction & payment processing services and related payment services including digital/mobile payment processors, payment service providers & gateways, and digital wallet providers."
 	},
 	"40202010": {
@@ -826,7 +826,7 @@ definition = {
 		"description": "Manufacturers of cellular phones, personal computers, servers, electronic computer components and peripherals. Includes data storage components, motherboards, audio and video cards, monitors, keyboards, printers, and other peripherals. Excludes semiconductors classified in the Semiconductors Sub-Industry."
 	},
 	"45203010": {
-		"name": "Electronic Equipment & Instruments ",
+		"name": "Electronic Equipment & Instruments",
 		"description": "Manufacturers of electronic equipment and instruments including analytical, electronic test and measurement instruments, scanner/barcode products, lasers, display screens, point-of-sales machines, and security system equipment."
 	},
 	"45203015": {
@@ -870,7 +870,7 @@ definition = {
 		"description": "Owners and operators of television or radio broadcasting systems, including programming. Includes radio and television broadcasting, radio networks, and radio stations."
 	},
 	"50201030": {
-		"name": "Cable &Satellite",
+		"name": "Cable & Satellite",
 		"description": "Providers of cable or satellite television services. Includes cable networks and program distribution."
 	},
 	"50201040": {
@@ -910,7 +910,7 @@ definition = {
 		"description": "Companies that operate as Independent Power Producers (IPPs), Gas & Power Marketing & Trading Specialists and/or Integrated Energy Merchants. Excludes producers of electricity using renewable sources, such as solar power, hydropower, and wind power. Also excludes electric transmission companies and utility distribution companies classified in the Electric Utilities Sub-Industry."
 	},
 	"55105020": {
-		"name": "Renewable Electricity ",
+		"name": "Renewable Electricity",
 		"description": "Companies that engage in the generation and distribution of electricity using renewable sources, including, but not limited to, companies that produce electricity using biomass, geothermal energy, solar energy, hydropower, and wind power. Excludes companies manufacturing capital equipment used to generate electricity using renewable sources, such as manufacturers of solar power systems, installers of photovoltaic cells,  and companies involved in the provision of technology, components, and services mainly to this market. "
 	},
 	"60101010": {
@@ -935,7 +935,7 @@ definition = {
 		"description": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of apartments and other multi-family housing including student housing."
 	},
 	"60106020": {
-		"name": "Single-Family Residential REITs ",
+		"name": "Single-Family Residential REITs",
 		"description": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of single-family residential housing including manufactured homes."
 	},
 	"60107010": {
